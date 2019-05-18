@@ -7,6 +7,6 @@ After everything is sorted out into their dictionary postions the code prints th
 
 The other files are there to plot each companies categories time series lines using matplotlib. There is a function to get the years from the whole data, and then it takes the information to create a new column in the csv file so it is easier to check data by year. Once all of the information is collected it graphs the data. Everything before 2012 in culture values is none so those years were skipped over.
 
-The last two files go through the pros and cons of the csv file and looks through what words show up the most for each category using nltk.
+The last two files go through the pros and cons of the csv file and looks through what words and sentences show up the most for each category using nltk.
 
 Overall the codes purpose was to see what each company needs to improve on when it comes to their employees opinions.
